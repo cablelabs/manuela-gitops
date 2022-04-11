@@ -6,19 +6,8 @@ items:
   metadata:
     name: manuela-team
   users:
-    - dfroehli@redhat.com
-    - oschneid@redhat.com
-    - sbergste@redhat.com
-    - wrichter@redhat.com
-    - mpfuetzn@redhat.com
-    - mreinke@redhat.com
-    - jlopezyg@redhat.com
-    - bschmeli@redhat.com
-    - bcygan@redhat.com
-    - iboernig@redhat.com
-    - llasmith@redhat.com
-    - abach@redhat.com
-
+    - a.kadam@cablelabs.com
+  
 
 - kind: Group
   apiVersion: user.openshift.io/v1
