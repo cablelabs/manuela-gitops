@@ -8,7 +8,6 @@ items:
   users:
     - a.kadam@cablelabs.com
   
-
 - kind: Group
   apiVersion: user.openshift.io/v1
   metadata:
